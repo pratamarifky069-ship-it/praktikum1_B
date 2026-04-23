@@ -122,6 +122,7 @@ public:
         }
 
 };
+// fungsi utama
 int main()
 {
     LinkedList mhs;
