@@ -22,6 +22,7 @@ public:
         START = NULL;
     }
 
+    // fungsi tambah data
     void addNode()
     {
         int nim;
